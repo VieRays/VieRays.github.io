@@ -7,8 +7,8 @@
   "emojis": [
     { // 1つ目の絵文字
       "shortcode": "gangan_ikouze", //
-      "imageURL": "https://Moji_Game/gangan_ikouze.png", // 絵文字の実体となる画像ファイル
-      "aliases": ["ほげ", "ホゲ"] // 絵文字のエイリアス(別名: 絵文字を検索する際のキーワード)
+      "imageURL": "https://github.com/VieRays/VieRays.github.io/blob/main/Moji_Game/gangan_ikouze.png",
+      "aliases": ["ガンガンいこうぜ", "がんがん"] // 絵文字のエイリアス(別名: 絵文字を検索する際のキーワード)
     },
     { // 2つ目の絵文字
       "shortcode": "huga", // 絵文字のショートコード(`:`を除いた部分)
