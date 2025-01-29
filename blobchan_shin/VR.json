@@ -5,6 +5,6 @@
   "credit": "@shin@misskey.design",
   "iconURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_magic.gif",
   "emojis": [
-  { "shortcode": “ショートコード”, "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_magic.gif”, "aliases": [“検索　される　言葉”] }
+  { "shortcode": "blob_magic", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_magic.gif”, "aliases": ["まじっく"] }
  ]
 }
