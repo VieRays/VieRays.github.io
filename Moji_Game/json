@@ -1,24 +1,24 @@
 {
   "name": "Moji_Game",
   "version": "1.0.0",
-  "description": "ゲーマーが使えそうな文字", //
+  "description": "ゲーマーが使えそうな文字",
   "credit": "VieRays",
-  "iconURL": "https://github.com/VieRays/VieRays.github.io/blob/main/Moji_Game/gangan_ikouze.png", // 絵文字パックのアイコン
+  "iconURL": "https://github.com/VieRays/VieRays.github.io/blob/main/Moji_Game/gangan_ikouze.png",
   "emojis": [
-    { // 1つ目の絵文字
-      "shortcode": "gangan_ikouze", //
+    { 
+      "shortcode": "gangan_ikouze", 
       "imageURL": "https://github.com/VieRays/VieRays.github.io/blob/main/Moji_Game/gangan_ikouze.png",
-      "aliases": ["ガンガンいこうぜ", "がんがん"] // 絵文字のエイリアス(別名: 絵文字を検索する際のキーワード)
+      "aliases": ["ガンガンいこうぜ", "がんがん"] 
     },
-    { // 2つ目の絵文字
-      "shortcode": "huga", // 絵文字のショートコード(`:`を除いた部分)
-      "imageURL": "https://example.com/files/huga.png", // 絵文字の実体となる画像ファイル
-      "aliases": ["ふが", "フガ"] // 絵文字のエイリアス(別名: 絵文字を検索する際のキーワード)
+    { 
+      "shortcode": "huga", 
+      "imageURL": "https://example.com/files/huga.png", 
+      "aliases": ["ふが", "フガ"] 
     },
-    { // 3つ目の絵文字
-      "shortcode": "piyo", // 絵文字のショートコード(`:`を除いた部分)
-      "imageURL": "https://example.com/files/piyo.jpg", // 絵文字の実体となる画像ファイル
-      "aliases": ["ぴよ", "ピヨ", "ひよこ"] // 絵文字のエイリアス(別名: 絵文字を検索する際のキーワード)
+    { 
+      "shortcode": "piyo", 
+      "imageURL": "https://example.com/files/piyo.jpg", 
+      "aliases": ["ぴよ", "ピヨ", "ひよこ"] 
     }
     ...省略...
   ]
