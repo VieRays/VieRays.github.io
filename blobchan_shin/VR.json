@@ -1,0 +1,10 @@
+{
+  "name": "blobchan_shin",
+  "version": "1.0.0",
+  "description": "blobちゃん",
+  "credit": "@shin@misskey.design",
+  "iconURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_magic.gif",
+  "emojis": [
+  { "shortcode": “ショートコード”, "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_magic.gif”, "aliases": [“検索　される　言葉”] }
+ ]
+}
