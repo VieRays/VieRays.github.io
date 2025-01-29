@@ -11,9 +11,9 @@
       "aliases": ["ガンガンいこうぜ", "がんがん"] 
     },
     { 
-      "shortcode": "huga", 
-      "imageURL": "https://example.com/files/huga.png", 
-      "aliases": ["ふが", "フガ"] 
+      "shortcode": "DPStakai", 
+      "imageURL": "https://github.com/VieRays/VieRays.github.io/blob/main/Moji_Game/DPStakai.PNG", 
+      "aliases": ["DPS", "でぃーぴーえす"] 
     },
     { 
       "shortcode": "piyo", 
