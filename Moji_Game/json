@@ -16,9 +16,9 @@
       "aliases": ["DPS", "でぃーぴーえす"] 
     },
     { 
-      "shortcode": "piyo", 
-      "imageURL": "https://example.com/files/piyo.jpg", 
-      "aliases": ["ぴよ", "ピヨ", "ひよこ"] 
+      "shortcode": "daijyoubuda_mondainai", 
+      "imageURL": "https://github.com/VieRays/VieRays.github.io/blob/main/Moji_Game/daijyoubuda_mondainai.PNG", 
+      "aliases": ["だいじょうぶ", "もんだいない", "大丈夫"] 
     }
     ...省略...
   ]
