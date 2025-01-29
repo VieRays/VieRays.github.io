@@ -5,8 +5,8 @@
   "credit": "VieRays",
   "iconURL": "https://github.com/VieRays/VieRays.github.io/blob/main/Moji_Game/gangan_ikouze.png",
   "emojis": [
-     { "shortcode": "gangan_ikouze", "imageURL": "https://github.com/VieRays/VieRays.github.io/blob/main/Moji_Game/gangan_ikouze.png?raw=true", "aliases": ["ガンガンいこうぜ", "がんがん"] }
-   , { "shortcode": "DPStakai", "imageURL": "https://github.com/VieRays/VieRays.github.io/blob/main/Moji_Game/DPStakai.PNG?raw=true", "aliases": ["DPS", "でぃーぴーえす"] }
-   , { "shortcode": "daijyoubuda_mondainai", "imageURL": "https://github.com/VieRays/VieRays.github.io/blob/main/Moji_Game/daijyoubuda_mondainai.PNG?raw=true", "aliases": ["だいじょうぶ", "もんだいない", "大丈夫"] }
+     { "shortcode": "gangan_ikouze", "imageURL": "https://VieRays.github.io/Moji_Game/gangan_ikouze.png", "aliases": ["ガンガンいこうぜ", "がんがん"] }
+   , { "shortcode": "DPStakai", "imageURL": "https://vierays.github.io/Moji_Game/DPStakai.PNG", "aliases": ["DPS", "でぃーぴーえす"] }
+   , { "shortcode": "daijyoubuda_mondainai", "imageURL": "https://VieRays.github.io/Moji_Game/daijyoubuda_mondainai.PNG", "aliases": ["だいじょうぶ", "もんだいない", "大丈夫"] }
   ]
 }
