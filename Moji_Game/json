@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "ゲーマーが使えそうな文字", //
   "credit": "VieRays",
-  "iconURL": "https://example.com/files/emojipack.png", // 絵文字パックのアイコン
+  "iconURL": "https://github.com/VieRays/VieRays.github.io/blob/main/Moji_Game/gangan_ikouze.png", // 絵文字パックのアイコン
   "emojis": [
     { // 1つ目の絵文字
       "shortcode": "gangan_ikouze", //
