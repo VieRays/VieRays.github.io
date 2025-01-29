@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "ゲーマーが使えそうな文字",
   "credit": "VieRays",
-  "iconURL": "https://github.com/VieRays/VieRays.github.io/blob/main/Moji_Game/gangan_ikouze.png",
+  "iconURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/gangan_ikouze.png",
   "emojis": [
      { "shortcode": "gangan_ikouze", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/gangan_ikouze.png", "aliases": ["ガンガンいこうぜ", "がんがん"] }
    , { "shortcode": "DPStakai", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/DPStakai.PNG", "aliases": ["DPS", "でぃーぴーえす"] }
