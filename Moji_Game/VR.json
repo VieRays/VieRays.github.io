@@ -7,6 +7,12 @@
   "emojis": [
      { "shortcode": "gangan_ikouze", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/gangan_ikouze.png", "aliases": ["ガンガンいこうぜ", "がんがん"] }
    , { "shortcode": "DPStakai", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/DPStakai.PNG", "aliases": ["DPS", "でぃーぴーえす"] }
-   , { "shortcode": "daijyoubuda_mondainai", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/daijyoubuda_mondainai.PNG", "aliases": ["だいじょうぶ", "もんだいない", "大丈夫"] }
-  ]
+   , { "shortcode": "daijyoubuda_mondainai", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/daijyoubuda_mondainai.PNG", "aliases": ["だいじょうぶ　もんだいない　大丈夫　えるしゃだい"] }
+   , { "shortcode": "ietajyaneeka”, "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/ietajyaneeka.PNG", "aliases": ["いえたじゃねえか　えふえふ"] }
+   , { "shortcode": "inoti_daijini”, "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/inoti_daijini.png", "aliases": ["いのちだいじに　どらくえ"] }
+   , { "shortcode": "itiban_iinowo_tanomu", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/itiban_iinowo_tanomu.PNG", "aliases": ["いちばん　いいのを　たのむ　えるしゃだい"] }
+   , { "shortcode": "sonnasoubide_daijyoubuka", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/sonnasoubide_daijyoubuka.PNG", "aliases": ["そんな　そうび　だいじょうぶか　えるしゃだい"] }
+   , { "shortcode": "uboaa", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/uboaa.GIF", "aliases": ["うぼあ　えふえふ"] }
+   , { "shortcode": "yappatsurewa", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/yappatsurewa.PNG", "aliases": ["やっぱ　つれえわ　えふえふ"] }
+ ]
 }
