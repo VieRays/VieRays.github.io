@@ -6,8 +6,8 @@
   "iconURL": "https://example.com/files/emojipack.png", // 絵文字パックのアイコン
   "emojis": [
     { // 1つ目の絵文字
-      "shortcode": "hoge", // 絵文字のショートコード(`:`を除いた部分)
-      "imageURL": "https://example.com/files/hoge.gif", // 絵文字の実体となる画像ファイル
+      "shortcode": "gangan_ikouze", //
+      "imageURL": "https://Moji_Game/gangan_ikouze.png", // 絵文字の実体となる画像ファイル
       "aliases": ["ほげ", "ホゲ"] // 絵文字のエイリアス(別名: 絵文字を検索する際のキーワード)
     },
     { // 2つ目の絵文字
