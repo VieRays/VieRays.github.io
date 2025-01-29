@@ -5,6 +5,7 @@
   "credit": "@shin@misskey.design",
   "iconURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_magic.gif",
   "emojis": [
-  { "shortcode": "blob_magic", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_magic.gif”, "aliases": ["まじっく"] }
+  { "shortcode": "blob_magic", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_magic.gif", "aliases": ["まじっく"] }
+
  ]
 }
