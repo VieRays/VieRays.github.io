@@ -5,7 +5,19 @@
   "credit": "@shin@misskey.design",
   "iconURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_magic.gif",
   "emojis": [
-  { "shortcode": "blob_magic", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_magic.gif", "aliases": ["まじっく"] }
-
- ]
+     { "shortcode": "blob_magic", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_magic.gif", "aliases": ["まじっく"] }
+   , { "shortcode": "ablobcat_friedrice", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/ablobcat_friedrice.gif", "aliases": ["チャーハン"] }
+   , { "shortcode": "ablobcat_friedrice_pro", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/ablobcat_friedrice_pro.gif", "aliases": ["チャーハン"] }
+   , { "shortcode": "ablobcat_friedrice_superpro", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/ablobcat_friedrice_superpro.gif", "aliases": ["チャーハン"] }
+   , { "shortcode": "ablobcat_fumi", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/ablobcat_fumi.gif", "aliases": ["ふみふみ"] }
+   , { "shortcode": "ablobcat_nodcry", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/ablobcat_nodcry.gif", "aliases": ["なみだ　うんうん"] }
+   , { "shortcode": "ablobcat_nodhappy", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/ablobcat_nodhappy.gif", "aliases": ["うれしい　うんうん"] }
+   , { "shortcode": "blob_aguitar", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_aguitar.gif", "aliases": ["アコースティック　ギター　アコギ"] }
+   , { "shortcode": "blob_banging", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_banging.gif", "aliases": ["バンギング　うんうん"] }
+   , { "shortcode": "blob_bass", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_bass.gif", "aliases": ["音楽　楽器　ベース"] }
+   , { "shortcode": "blob_chorus", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_chorus.gif", "aliases": ["音楽　コーラス"] }
+   , { "shortcode": "blob_dance3", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_dance3.gif", "aliases": ["ダンス"] }
+   , { "shortcode": "blob_dance4", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_dance4.gif", "aliases": ["ダンス"] } 
+   , { "shortcode": "blob_dancefloor", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_dancefloor.gif", "aliases": ["ダンス　いえい"] }
+  ]
 }
