@@ -26,6 +26,29 @@
    , { "shortcode": "blob_hanpukuyokotobi", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_hanpukuyokotobi.gif", "aliases": ["反復横跳び　はんぷく"] }
    , { "shortcode": "blob_happiness", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_happiness.gif", "aliases": ["ハート　ハッピー"] }
    , { "shortcode": "blob_hawawa", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_hawawa.gif", "aliases": ["はわわ"] }    
-   , { "shortcode": "blob_hawawa", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_hawawa.gif", "aliases": ["はわわ"] }
+   , { "shortcode": "blob_hold_hands", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_hold-hands.gif", "aliases": ["がしっ"] }
+   , { "shortcode": "blob_hypnosis", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_hypnosis.gif", "aliases": ["ふりこ　催眠"] }
+   , { "shortcode": "blob_jitabata", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_jitabata.gif", "aliases": ["ジタバタ"] }
+   , { "shortcode": "blob_keyboard", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_keyboard.gif", "aliases": ["音楽　楽器　キーボード"] }
+   , { "shortcode": "blob_kuchibue", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_kuchibue.gif", "aliases": ["口笛　ハミング"] }
+   , { "shortcode": "blob_longtalk", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_longtalk.gif", "aliases": ["はなす"] }
+   , { "shortcode": "blob_lovepunch", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_lovepunch.gif", "aliases": ["ハート　パンチ"] }
+   , { "shortcode": "blob_mu", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_mu.gif", "aliases": ["無　虚無"] }
+   , { "shortcode": "blob_nodcry", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_nodcry.gif", "aliases": ["なみだ　うんうん"] }
+   , { "shortcode": "blob_ow", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_ow", "aliases": ["あちゃー　しまった"] }
+   , { "shortcode": "blob_runrun", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_runrun.gif", "aliases": ["ルンルン"] }
+   , { "shortcode": "blob_shiba", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_shiba.gif", "aliases": ["しばいぬ"] }
+   , { "shortcode": "blob_sing", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_sing.gif", "aliases": ["音楽　うたう"] }
+   , { "shortcode": "blob_sore", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_sore.gif", "aliases": ["それ　ゲッツ"] }
+   , { "shortcode": "blob_uooo", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_uooo.gif", "aliases": ["うおお　歓声　興奮"] }
+   , { "shortcode": "blob_vocal", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_vocal.gif", "aliases": ["音楽　楽器　ヴォーカル　ボーカル　うたう"] }
+   , { "shortcode": "blob_watching", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_watching.gif", "aliases": ["見る　映画　ポップコーン"] }
+   , { "shortcode": "blob_wave", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_wave.gif", "aliases": ["ウェーブ"] }
+   , { "shortcode": "blob_yannya", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_yannya.gif", "aliases": ["歓喜　やんや　祝い　おめでとう"] }
+   , { "shortcode": "blobcat_saimin", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blobcat_saimin.gif", "aliases": ["ふりこ　催眠"] }
+   , { "shortcode": "blob_dance2", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blobdance2.gif", "aliases": ["ダンス"] }
+   , { "shortcode": "blobdragon_fire", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blobdragon_fire.gif", "aliases": ["ドラゴン　ファイア　ほのお"] }
+   , { "shortcode": "blobdragon_ice", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blobdragon_ice.gif", "aliases": ["ドラゴン　アイス　こおり"] }
+   , { "shortcode": "blobdragon_nodcry", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blobdragon_nodcry.gif", "aliases": ["ドラゴン　うんうん　なみだ"] }
   ]
 }
