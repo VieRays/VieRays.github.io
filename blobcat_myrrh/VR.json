@@ -1,0 +1,49 @@
+{
+  "name": "blobcat_myrrh",
+  "version": "1.0.0",
+  "description": "@888myrrh888@misskey.ioさん作成のブロブキャットちゃん",
+  "credit": "@888myrrh888@misskey.io",
+  "iconURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_aww_kira.gif",
+  "emojis": [
+     { "shortcode": "ablobcat_aww_kira", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_aww_kira.gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_angry", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_angry.gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_bakedmochomocho", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_bakedmochomocho.gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_cheer", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_cheer(animation).gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_coffee", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_coffee.gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_comfy_yurayura", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_comfy_yurayura.gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_cry", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_cry.gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_dogeza", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_dogeza.gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_evil", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_evil.gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_frustration", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_frustration.gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_hanamaru", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_hanamaru.gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_heart2", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_heart2.gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_hug", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_hug.gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_keikaku_douri", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_keikaku_douri.gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_payage_fuwafuwa", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_payage_fuwafuwa.gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_payage_mofumofu", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_payage_mofumofu.gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_petthex_cry", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_petthex_cry.gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_petthex_smile", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_petthex_smile.gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_search", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_search.gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_sneeze", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_sneeze.gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_suyasuya", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_suyasuya.gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_thinking_kaiten", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_thinking_kaiten(animation).gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_wind", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_wind.gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_bye", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_bye.gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_cake", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_cake.gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_clap", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_clap.gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_comfy_cold", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_comfy_cold.gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_dance", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_dance.gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_gakuburu", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_gakuburu.gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_gohan", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_gohan.gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_hanamaru", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_hanamaru.gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_heart_squat", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_heart_squat.gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_no", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_no.gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_ofuton", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_ofuton.gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_ramen", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_ramen.gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_surprised", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_surprised.gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_tadaima", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_tadaima.gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_toutoi", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_toutoi.gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_wave_hi", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_wave_hi.gif", "aliases": [""] }
+   , { "shortcode": "ablobcat_yes_nod", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/ablobcat_yes_nod.gif", "aliases": [""] }
+ ]
+}
