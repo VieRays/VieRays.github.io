@@ -1,0 +1,41 @@
+{
+  "name": "CompanyLogo",
+  "version": "1.0.0",
+  "description": "企業などのロゴ",
+  "credit": "　",
+  "iconURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/Seicomart.png",
+  "emojis": [
+     { "shortcode": "7_11", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/7_11.png", "aliases": [""] }
+   , { "shortcode": "AEON", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/AEON.png", "aliases": [""] }
+   , { "shortcode": "BURGER_KING", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/BURGER_KING.png", "aliases": [""] }
+   , { "shortcode": "Chateraise", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/Chateraise.png", "aliases": [""] }
+   , { "shortcode": "Demaecan", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/Demaecan.png", "aliases": [""] }
+   , { "shortcode": "DonQuijote", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/DonQuijote.png", "aliases": [""] }
+   , { "shortcode": "GU", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/GU.png", "aliases": [""] }
+   , { "shortcode": "HAPPY_SWING", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/HAPPY_SWING.png", "aliases": [""] }
+   , { "shortcode": "KFC", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/KFC.png", "aliases": [""] }
+   , { "shortcode": "KOMEDAs_Coffee", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/KOMEDAs_Coffee.png", "aliases": [""] }
+   , { "shortcode": "LAWSON", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/LAWSON.webp", "aliases": [""] }
+   , { "shortcode": "LEGO", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/LEGO.png", "aliases": [""] }
+   , { "shortcode": "LOTTERIA", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/LOTTERIA.png", "aliases": [""] }
+   , { "shortcode": "LeTAo", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/LeTAo.png", "aliases": [""] }
+   , { "shortcode": "MOS_BURGER", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/MOS_BURGER.png", "aliases": [""] }
+   , { "shortcode": "McDonald", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/McDonald.png", "aliases": [""] }
+   , { "shortcode": "MisterDonut", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/MisterDonut.png", "aliases": [""] }
+   , { "shortcode": "Seicomart", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/Seicomart.png", "aliases": [""] }
+   , { "shortcode": "SoftBank", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/SoftBank.png", "aliases": [""] }
+   , { "shortcode": "Starbucks", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/Starbucks.png", "aliases": [""] }
+   , { "shortcode": "TULLYs", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/TULLYs.png", "aliases": [""] }
+   , { "shortcode": "UNIQLO", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/UNIQLO.png", "aliases": [""] }
+   , { "shortcode": "au", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/au.png", "aliases": [""] }
+   , { "shortcode": "auPAY", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/auPAY.png", "aliases": [""] }
+   , { "shortcode": "bikkuri_donkey", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/bikkuri_donkey.png", "aliases": [""] }
+   , { "shortcode": "cando", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/cando.png", "aliases": [""] }
+   , { "shortcode": "daiso", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/daiso.png", "aliases": [""] }
+   , { "shortcode": "docomo", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/docomo.png", "aliases": [""] }
+   , { "shortcode": "luckypierrot", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/luckypierrot.png", "aliases": [""] }
+   , { "shortcode": "pizza10_4", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/pizza10_4.png", "aliases": [""] }
+   , { "shortcode": "seria", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/seria.png", "aliases": [""] }
+   , { "shortcode": "sukiya", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/sukiya.png", "aliases": [""] }
+ ]
+}
