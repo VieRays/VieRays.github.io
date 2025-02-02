@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "FF14ジョブのドット絵",
   "credit": "©SQUARE ENIX",
-  "iconURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/gangan_ikouze.png",
+  "iconURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_T_Paladin.png",
   "emojis": [
      { "shortcode": "ff14_jd_C_Alchemist", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_C_Alchemist.png", "aliases": [""] }
    , { "shortcode": "ff14_jd_C_Armorer", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_C_Armorer.png", "aliases": [""] }
@@ -20,7 +20,7 @@
    , { "shortcode": "ff14_jd_D_Monk", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_D_Monk.png", "aliases": [""] }
    , { "shortcode": "ff14_jd_D_Ninja", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_D_Ninja.png", "aliases": [""] }
    , { "shortcode": "ff14_jd_D_Pictomancer", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_D_Pictomancer.png", "aliases": [""] }
-   , { "shortcode": "ff14_jd_D_Reaper", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_D_Reaper.png.png", "aliases": [""] }
+   , { "shortcode": "ff14_jd_D_Reaper", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_D_Reaper.png", "aliases": [""] }
    , { "shortcode": "ff14_jd_D_RedMage", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_D_RedMage.png", "aliases": [""] }
    , { "shortcode": "ff14_jd_D_Samurai", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_D_Samurai.png", "aliases": [""] }
    , { "shortcode": "ff14_jd_D_Summoner", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_D_Summoner.png", "aliases": [""] }
