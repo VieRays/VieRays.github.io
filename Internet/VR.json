@@ -6,6 +6,7 @@
   "iconURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/fediverse.png",
   "emojis": [
      { "shortcode": "ABEMA", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/ABEMA.webp", "aliases": [""] }
+   , { "shortcode": "Amazon", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/Amazon.png", "aliases": [""] }
    , { "shortcode": "AmazonPrimeVideo", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/AmazonPrimeVideo.png", "aliases": [""] }
    , { "shortcode": "AppStore", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/AppStore.png", "aliases": [""] }
    , { "shortcode": "AppleMusic", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/AppleMusic.png", "aliases": [""] }
