@@ -45,7 +45,7 @@
    , { "shortcode": "mercari", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/mercari.png", "aliases": [""] }
    , { "shortcode": "notestock", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/notestock.png", "aliases": [""] }
    , { "shortcode": "pixiv", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/pixiv.png", "aliases": [""] }
-   , { "shortcode": "pixiv", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/pixiv.png", "aliases": [""] }
+   , { "shortcode": "privatter", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/privatter.png", "aliases": [""] }
    , { "shortcode": "safari", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/safari.png", "aliases": [""] }
    , { "shortcode": "tvchan", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/tvchan.png", "aliases": [""] }
    , { "shortcode": "wordpress", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/wordpress.png", "aliases": [""] }
