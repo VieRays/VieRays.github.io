@@ -28,7 +28,6 @@
    , { "shortcode": "TULLYs", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/TULLYs.png", "aliases": [""] }
    , { "shortcode": "UNIQLO", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/UNIQLO.png", "aliases": [""] }
    , { "shortcode": "au", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/au.png", "aliases": [""] }
-   , { "shortcode": "auPAY", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/auPAY.png", "aliases": [""] }
    , { "shortcode": "bikkuri_donkey", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/bikkuri_donkey.png", "aliases": [""] }
    , { "shortcode": "cando", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/cando.png", "aliases": [""] }
    , { "shortcode": "daiso", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/daiso.png", "aliases": [""] }
