@@ -1,0 +1,53 @@
+{
+  "name": "Internet",
+  "version": "1.0.0",
+  "description": "ネット・アプリロゴなど",
+  "credit": " ",
+  "iconURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/fediverse.png",
+  "emojis": [
+     { "shortcode": "ABEMA", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/ABEMA.webp", "aliases": [""] }
+   , { "shortcode": "AmazonPrimeVideo", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/AmazonPrimeVideo.png", "aliases": [""] }
+   , { "shortcode": "AppStore", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/AppStore.png", "aliases": [""] }
+   , { "shortcode": "AppleMusic", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/AppleMusic.png", "aliases": [""] }
+   , { "shortcode": "Apple_inc", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/Apple_inc.png", "aliases": [""] }
+   , { "shortcode": "Bluesky", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/Bluesky.png", "aliases": [""] }
+   , { "shortcode": "ChatGPT", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/ChatGPT.png", "aliases": [""] }
+   , { "shortcode": "Discord", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/Discord.png", "aliases": [""] }
+   , { "shortcode": "DisneyPlus", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/DisneyPlus.png", "aliases": [""] }
+   , { "shortcode": "Duolingo", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/Duolingo.webp", "aliases": [""] }
+   , { "shortcode": "Firefox", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/Firefox.png", "aliases": [""] }
+   , { "shortcode": "Gmail", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/Gmail.png", "aliases": [""] }
+   , { "shortcode": "Google", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/Google.png", "aliases": [""] }
+   , { "shortcode": "GoogleChrome", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/GoogleChrome.png", "aliases": [""] }
+   , { "shortcode": "GoogleMap", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/GoogleMap.png", "aliases": [""] }
+   , { "shortcode": "Hulu", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/Hulu.png", "aliases": [""] }
+   , { "shortcode": "Instagram", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/Instagram.png", "aliases": [""] }
+   , { "shortcode": "LINE", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/LINE.png", "aliases": [""] }
+   , { "shortcode": "Lemino", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/Lemino.png", "aliases": [""] }
+   , { "shortcode": "Mastodon", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/Mastodon.png", "aliases": [""] }
+   , { "shortcode": "Misskey", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/Misskey.png", "aliases": [""] }
+   , { "shortcode": "Misskeyio", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/Misskeyio.png", "aliases": [""] }
+   , { "shortcode": "Netflix", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/Netflix.png", "aliases": [""] }
+   , { "shortcode": "Pinterest", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/Pinterest.png", "aliases": [""] }
+   , { "shortcode": "Procreate", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/Procreate.png", "aliases": [""] }
+   , { "shortcode": "Spotify", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/Spotify.png", "aliases": [""] }
+   , { "shortcode": "Steam", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/Steam.png", "aliases": [""] }
+   , { "shortcode": "TVer", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/TVer.png", "aliases": [""] }
+   , { "shortcode": "Threads", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/Threads.png", "aliases": [""] }
+   , { "shortcode": "Twitch", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/Twitch.png", "aliases": [""] }
+   , { "shortcode": "Twitter", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/Twitter.png", "aliases": [""] }
+   , { "shortcode": "Windows", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/Windows.png", "aliases": [""] }
+   , { "shortcode": "Xcom", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/Xcom.png", "aliases": [""] }
+   , { "shortcode": "YouTube", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/YouTube.png", "aliases": [""] }
+   , { "shortcode": "calckey", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/calckey.png", "aliases": [""] }
+   , { "shortcode": "facebook", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/facebook.png", "aliases": [""] }
+   , { "shortcode": "fediverse", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/fediverse.png", "aliases": [""] }
+   , { "shortcode": "mercari", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/mercari.png", "aliases": [""] }
+   , { "shortcode": "notestock", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/notestock.png", "aliases": [""] }
+   , { "shortcode": "pixiv", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/pixiv.png", "aliases": [""] }
+   , { "shortcode": "pixiv", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/pixiv.png", "aliases": [""] }
+   , { "shortcode": "safari", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/safari.png", "aliases": [""] }
+   , { "shortcode": "tvchan", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/tvchan.png", "aliases": [""] }
+   , { "shortcode": "wordpress", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/wordpress.png", "aliases": [""] }
+ ]
+}
