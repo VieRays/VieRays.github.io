@@ -1,0 +1,40 @@
+{
+  "name": "FF14_jobdot",
+  "version": "1.0.0",
+  "description": "FF14ジョブのドット絵",
+  "credit": "©SQUARE ENIX",
+  "iconURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/gangan_ikouze.png",
+  "emojis": [
+     { "shortcode": "ff14_jd_C_Alchemist", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_C_Alchemist.png", "aliases": [""] }
+   , { "shortcode": "ff14_jd_C_Armorer", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_C_Armorer.png", "aliases": [""] }
+   , { "shortcode": "ff14_jd_C_Blacksmith", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_C_Blacksmith.png", "aliases": [""] }
+   , { "shortcode": "ff14_jd_C_Carpenter", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_C_Carpenter.png", "aliases": [""] }
+   , { "shortcode": "ff14_jd_C_Culinarian", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_C_Culinarian.png", "aliases": [""] }
+   , { "shortcode": "ff14_jd_C_Goldsmith", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_C_Goldsmith.png", "aliases": [""] }
+   , { "shortcode": "ff14_jd_C_Leatherworker", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_C_Leatherworker.png", "aliases": [""] }
+   , { "shortcode": "ff14_jd_D_Bard", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_D_Bard.png", "aliases": [""] }
+   , { "shortcode": "ff14_jd_D_BlackMage", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_D_BlackMage.png", "aliases": [""] }
+   , { "shortcode": "ff14_jd_D_Dancer", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_D_Dancer.png", "aliases": [""] }
+   , { "shortcode": "ff14_jd_D_Dragoon", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_D_Dragoon.png", "aliases": [""] }
+   , { "shortcode": "ff14_jd_D_Machinist", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_D_Machinist.png", "aliases": [""] }
+   , { "shortcode": "ff14_jd_D_Monk", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_D_Monk.png", "aliases": [""] }
+   , { "shortcode": "ff14_jd_D_Ninja", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_D_Ninja.png", "aliases": [""] }
+   , { "shortcode": "ff14_jd_D_Pictomancer", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_D_Pictomancer.png", "aliases": [""] }
+   , { "shortcode": "ff14_jd_D_Reaper", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_D_Reaper.png.png", "aliases": [""] }
+   , { "shortcode": "ff14_jd_D_RedMage", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_D_RedMage.png", "aliases": [""] }
+   , { "shortcode": "ff14_jd_D_Samurai", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_D_Samurai.png", "aliases": [""] }
+   , { "shortcode": "ff14_jd_D_Summoner", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_D_Summoner.png", "aliases": [""] }
+   , { "shortcode": "ff14_jd_D_Viper.png", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_D_Viper.png", "aliases": [""] }
+   , { "shortcode": "ff14_jd_G_Botanist", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_G_Botanist.png", "aliases": [""] }
+   , { "shortcode": "ff14_jd_G_Fisher", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_G_Fisher.png", "aliases": [""] }
+   , { "shortcode": "ff14_jd_G_Miner", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_G_Miner.png", "aliases": [""] }
+   , { "shortcode": "ff14_jd_H_Astrologian", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_H_Astrologian.png", "aliases": [""] }
+   , { "shortcode": "ff14_jd_H_Sage", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_H_Sage.png", "aliases": [""] }
+   , { "shortcode": "ff14_jd_H_Scholar", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_H_Scholar.png", "aliases": [""] }
+   , { "shortcode": "ff14_jd_H_WhiteMage", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_H_WhiteMage.png", "aliases": [""] }
+   , { "shortcode": "ff14_jd_T_DarkKnight", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_T_DarkKnight.png", "aliases": [""] }
+   , { "shortcode": "ff14_jd_T_Gunbreaker", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_T_Gunbreaker.png", "aliases": [""] }
+   , { "shortcode": "ff14_jd_T_Paladin", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_T_Paladin.png", "aliases": [""] }
+   , { "shortcode": "ff14_jd_T_Warrior", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_jobdot/ff14_jd_T_Warrior.png", "aliases": [""] } 
+ ]
+}
