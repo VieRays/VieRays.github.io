@@ -40,10 +40,11 @@
    , { "shortcode": "Windows", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/Windows.png", "aliases": [""] }
    , { "shortcode": "Xcom", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/Xcom.png", "aliases": [""] }
    , { "shortcode": "YouTube", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/YouTube.png", "aliases": [""] }
-   , { "shortcode": "calckey", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/calckey.png", "aliases": [""] }
    , { "shortcode": "auPAY", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/auPAY.png", "aliases": [""] }
+   , { "shortcode": "calckey", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/calckey.png", "aliases": [""] }
    , { "shortcode": "facebook", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/facebook.png", "aliases": [""] }
    , { "shortcode": "fediverse", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/fediverse.png", "aliases": [""] }
+   , { "shortcode": "kyle", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/kyle.png", "aliases": [""] }
    , { "shortcode": "mercari", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/mercari.png", "aliases": [""] }
    , { "shortcode": "notestock", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/notestock.png", "aliases": [""] }
    , { "shortcode": "pixiv", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/pixiv.png", "aliases": [""] }
