@@ -1,0 +1,51 @@
+{
+  "name": "らくがきミニオンズ",
+  "version": "1.0.0",
+  "description": "FF14のミニオンのかわいいイラスト",
+  "credit": "© SQUARE ENIX",
+  "iconURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_Alpha.PNG",
+  "emojis": [
+     { "shortcode": "ff14_sticker_Alpha", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_Alpha.PNG", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_AncientOne", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_AncientOne.PNG", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_AxolotlEft", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_AxolotlEft.PNG", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_BittyDuckbill", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_BittyDuckbill.png", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_CherryBomb", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_CherryBomb.webp", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_Drippy", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_Drippy.PNG", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_DustBunny", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_DustBunny.png", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_FatCat", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_FatCat.webp", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_FelicitousFuzzball", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_FelicitousFuzzball.PNG", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_Fuath", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_Fuath.png", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_Gaelikitten", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_Gaelikitten.png", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_GiantBeaver", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_GiantBeaver.webp", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_GoobbueSproutling", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_GoobbueSproutling.png", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_Grebuloff", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_Grebuloff.PNG", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_HeavyHatchling", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_HeavyHatchling.webp", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_Kidragora", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_Kidragora.png", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_KorpokkurKid", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_KorpokkurKid.webp", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_Lalinator5H0", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_Lalinator5H0.PNG", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_Mameshiba", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_Mameshiba.webp", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_Moogle", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_Moogle.webp", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_Morbol", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_Morbol.webp", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_Much_covetedMora", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_Much_covetedMora.PNG", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_Namazuo", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_Namazuo.webp", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_Nutkin", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_Nutkin.png", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_OdderOtter", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_OdderOtter.png", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_PaissaBrat", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_PaissaBrat.webp", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_PeridotCarbuncle", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_PeridotCarbuncle.webp", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_Piggy", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_Piggy.webp", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_PoroRoggo", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_PoroRoggo.png", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_Qiqirn", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_Qiqirn.png", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_Sabotender", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_Sabotender.webp", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_SaltPepperSeal", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_SaltPepperSeal.png", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_SandFox", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_SandFox.webp", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_Shalloweye", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_Shalloweye.png", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_Shoebill", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_Shoebill.webp", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_SpongeSilkie", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_SpongeSilkie.PNG", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_TheGreatSerpent_of_Ronka", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_TheGreatSerpent_of_Ronka.png", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_TheMajorGeneral", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_TheMajorGeneral.webp", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_TinyTroll", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_TinyTroll.PNG", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_Tonberry", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_Tonberry.png", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_WeeEa", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_WeeEa.PNG", "aliases": [""] }
+   , { "shortcode": "ff14_sticker_YukinkoSnowflake", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_YukinkoSnowflake.png", "aliases": [""] }
+ ]
+}
