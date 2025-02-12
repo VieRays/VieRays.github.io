@@ -18,6 +18,7 @@
    , { "shortcode": "blob_chorus", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_chorus.gif", "aliases": ["音楽　コーラス"] }
    , { "shortcode": "blob_dance3", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_dance3.gif", "aliases": ["ダンス"] }
    , { "shortcode": "blob_dance4", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_dance4.gif", "aliases": ["ダンス"] } 
+   , { "shortcode": "blob_dancefloor", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_dancefloor.gif", "aliases": ["ダンス"] } 
    , { "shortcode": "blob_dram", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_dram.gif", "aliases": ["音楽　楽器　ドラム"] }
    , { "shortcode": "blob_eguitar", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_e-guitar.gif", "aliases": ["音楽　楽器　エレキ　ギター"] }
    , { "shortcode": "blob_furefure", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_furefure.gif", "aliases": ["おうえん　フレフレ"] }
