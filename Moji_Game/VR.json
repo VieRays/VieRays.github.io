@@ -14,5 +14,43 @@
    , { "shortcode": "yappatsurewa", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/yappatsurewa.PNG", "aliases": ["やっぱ　つれえわ　えふえふ"] }
    , { "shortcode": "ietajyaneeka", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/ietajyaneeka.PNG", "aliases": ["いえたじゃねえか　えふえふ"] }
    , { "shortcode": "inoti_daijini", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/inoti_daijini.png", "aliases": ["いのち　だいじに　どらくえ"] }
+   , { "shortcode": "14gen", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/14gen.PNG", "aliases": [""] }
+   , { "shortcode": "14goku", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/14goku.PNG", "aliases": [""] }
+   , { "shortcode": "14guren", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/14guren.png", "aliases": [""] }
+   , { "shortcode": "14gyougetsu", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/14gyougetsu.png", "aliases": [""] }
+   , { "shortcode": "14heiyoo", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/14heiyoo.PNG", "aliases": [""] }
+   , { "shortcode": "14metsu", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/14metsu.png", "aliases": [""] }
+   , { "shortcode": "14ougon", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/14ougon.png", "aliases": [""] }
+   , { "shortcode": "14reishiki", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/14reishiki.PNG", "aliases": [""] }
+   , { "shortcode": "14shikkoku", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/14shikkoku.png", "aliases": [""] }
+   , { "shortcode": "14shinsei", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/14shinsei.png", "aliases": [""] }
+   , { "shortcode": "14souten", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/14souten.png", "aliases": [""] }
+   , { "shortcode": "14toumethusen", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/14toumethusen.PNG", "aliases": [""] }
+   , { "shortcode": "14twululuawawa", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/14twululuawawa.PNG", "aliases": [""] }
+   , { "shortcode": "14wagatomoyo", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/14wagatomoyo.PNG", "aliases": [""] }
+   , { "shortcode": "14yoshidaaaa", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/14yoshidaaaa.PNG", "aliases": [""] }
+   , { "shortcode": "14yuka", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/14yuka.PNG", "aliases": [""] }
+   , { "shortcode": "14zethu", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/14zethu.PNG", "aliases": [""] }
+   , { "shortcode": "H_kangaete", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/H_kangaete.GIF", "aliases": [""] }
+   , { "shortcode": "H_kanjite", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/H_kanjite.GIF", "aliases": [""] }
+   , { "shortcode": "H_kiite", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/H_kiite.GIF", "aliases": [""] }
+   , { "shortcode": "Hikasen", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/Hikasen.PNG", "aliases": [""] }
+   , { "shortcode": "ILnoBouryoku", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/ILnoBouryoku.png", "aliases": [""] }
+   , { "shortcode": "Kakinnsenshi", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/Kakinnsenshi.GIF", "aliases": [""] }
+   , { "shortcode": "Kupo", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/Kupo.PNG", "aliases": [""] }
+   , { "shortcode": "Que", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/Que.PNG", "aliases": [""] }
+   , { "shortcode": "Rahi", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/Rahi.PNG", "aliases": [""] }
+   , { "shortcode": "a_aa!!", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/a_aa!!.GIF", "aliases": [""] }
+   , { "shortcode": "a_aaa", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/a_aaa.GIF", "aliases": [""] }
+   , { "shortcode": "a_yoshida", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/a_yoshida.GIF", "aliases": [""] }
+   , { "shortcode": "daitai_aragunosei", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/daitai_aragunosei.PNG", "aliases": [""] }
+   , { "shortcode": "ie", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/ie.png", "aliases": [""] }
+   , { "shortcode": "kaiheidamashiiiii", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/kaiheidamashiiiii.gif", "aliases": [""] }
+   , { "shortcode": "koerutikara", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/koerutikara.gif", "aliases": [""] }
+   , { "shortcode": "lali_ho", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/lali_ho.PNG", "aliases": [""] }
+   , { "shortcode": "maturidearu", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/maturidearu.PNG", "aliases": [""] }
+   , { "shortcode": "koeruchikara", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/koeruchikara.gif", "aliases": [""] }
+   , { "shortcode": "ponpon_mushiruzo", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/ponpon_mushiruzo.PNG", "aliases": [""] }
+   , { "shortcode": "yoshida?", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/yoshida?.PNG", "aliases": [""] }
  ]
 }
