@@ -1,0 +1,42 @@
+{
+  "name": "文字ごった喰い",
+  "version": "1.0.0",
+  "description": "適当な文字が入ってるセット",
+  "credit": " ",
+  "iconURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/kansyashimasu.PNG",
+  "emojis": [
+     { "shortcode": "GG", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/GG.GIF", "aliases": [""] }
+   , { "shortcode": "abarenbou_shougun", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/abarenbou_shougun.png", "aliases": [""] }
+   , { "shortcode": "arigato", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/arigato.PNG", "aliases": [""] }
+   , { "shortcode": "bakuhatusuru", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/bakuhatusuru.GIF", "aliases": [""] }
+   , { "shortcode": "eiyu", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/eiyu.PNG", "aliases": [""] }
+   , { "shortcode": "enpu_no_sainou", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/enpu_no_sainou.GIF", "aliases": [""] }
+   , { "shortcode": "gogogogo", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/gogogogo.png", "aliases": [""] }
+   , { "shortcode": "hasshin", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/hasshin.png", "aliases": [""] }
+   , { "shortcode": "ii", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/ii.PNG", "aliases": [""] }
+   , { "shortcode": "kakkoii", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/kakkoii.PNG", "aliases": [""] }
+   , { "shortcode": "kamimamita", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/kamimamita.PNG", "aliases": [""] }
+   , { "shortcode": "kamiwa_shinda", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/kamiwa_shinda.PNG", "aliases": [""] }
+   , { "shortcode": "kansyashimasu", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/kansyashimasu.PNG", "aliases": [""] }
+   , { "shortcode": "kawaii", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/kawaii.PNG", "aliases": [""] }
+   , { "shortcode": "kyoufu", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/kyoufu.GIF", "aliases": [""] }
+   , { "shortcode": "moe", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/moe.PNG", "aliases": [""] }
+   , { "shortcode": "mofumofu", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/mofumofu.PNG", "aliases": [""] }
+   , { "shortcode": "nantoka_naree", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/nantoka_naree.png", "aliases": [""] }
+   , { "shortcode": "ofuton", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/ofuton.PNG", "aliases": [""] }
+   , { "shortcode": "oishisou", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/oishisou.PNG", "aliases": [""] }
+   , { "shortcode": "omedeto", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/omedeto.PNG", "aliases": [""] }
+   , { "shortcode": "onadan_dori", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/onadan_dori.png", "aliases": [""] }
+   , { "shortcode": "onadan_ijyou", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/onadan_ijyou.png", "aliases": [""] }
+   , { "shortcode": "shitsurei_kamimashita", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/shitsurei_kamimashita.PNG", "aliases": [""] }
+   , { "shortcode": "sugu", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/sugu.PNG", "aliases": [""] }
+   , { "shortcode": "teiki", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/teiki.PNG", "aliases": [""] }
+   , { "shortcode": "tensai", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/tensai.GIF", "aliases": [""] }
+   , { "shortcode": "tigau_sohjyanai", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/ii.PNG", "aliases": [""] }
+   , { "shortcode": "ii", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/tigau_sohjyanai.PNG", "aliases": [""] }
+   , { "shortcode": "tore", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/tore.PNG", "aliases": [""] }
+   , { "shortcode": "wakaru", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/wakaru.PNG", "aliases": [""] }
+   , { "shortcode": "yuusya", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/yuusya.PNG", "aliases": [""] }
+   , { "shortcode": "yuuutsu", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/yuuutsu.PNG", "aliases": [""] }
+ ]
+}
