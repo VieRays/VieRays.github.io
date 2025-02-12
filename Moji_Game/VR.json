@@ -52,5 +52,6 @@
    , { "shortcode": "koeruchikara", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/koeruchikara.gif", "aliases": [""] }
    , { "shortcode": "ponpon_mushiruzo", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/ponpon_mushiruzo.PNG", "aliases": [""] }
    , { "shortcode": "yoshida_G", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/yoshida_G.PNG", "aliases": [""] }
+   , { "shortcode": "WatashigaTyoutyouDesu", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_Game/WatashigaTyoutyouDesu.PNG", "aliases": [""] }
  ]
 }
