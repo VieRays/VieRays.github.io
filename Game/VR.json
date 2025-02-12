@@ -1,0 +1,54 @@
+{
+  "name": "ゲーム関連",
+  "version": "1.0.0",
+  "description": "ゲーム関連の絵文字",
+  "credit": " ",
+  "iconURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/tadano_shikabane.png",
+  "emojis": [
+     { "shortcode": "AmongUs_Banana", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/AmongUs_Banana.png", "aliases": [""] }
+   , { "shortcode": "AmongUs_Black", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/AmongUs_Black.png", "aliases": [""] }
+   , { "shortcode": "AmongUs_Blue", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/AmongUs_Blue.png", "aliases": [""] }
+   , { "shortcode": "AmongUs_Brown", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/AmongUs_Brown.webp", "aliases": [""] }
+   , { "shortcode": "AmongUs_Coral", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/AmongUs_Coral.png", "aliases": [""] }
+   , { "shortcode": "AmongUs_Cyan", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/AmongUs_Cyan.webp", "aliases": [""] }
+   , { "shortcode": "AmongUs_Dead", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/AmongUs_Dead.png", "aliases": [""] }
+   , { "shortcode": "AmongUs_Deadbody", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/AmongUs_Deadbody.png", "aliases": [""] }
+   , { "shortcode": "AmongUs_Gray", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/AmongUs_Gray.png", "aliases": [""] }
+   , { "shortcode": "AmongUs_Green", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/AmongUs_Green.webp", "aliases": [""] }
+   , { "shortcode": "AmongUs_Lime", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/AmongUs_Lime.png", "aliases": [""] }
+   , { "shortcode": "AmongUs_Maroon", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/AmongUs_Maroon.png", "aliases": [""] }
+   , { "shortcode": "AmongUs_Orange", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/AmongUs_Orange.png", "aliases": [""] }
+   , { "shortcode": "AmongUs_Pink", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/AmongUs_Pink.png", "aliases": [""] }
+   , { "shortcode": "AmongUs_Purple", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/AmongUs_Purple.png", "aliases": [""] }
+   , { "shortcode": "AmongUs_Red", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/AmongUs_Red.png", "aliases": [""] }
+   , { "shortcode": "AmongUs_Rose", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/AmongUs_Rose.png", "aliases": [""] }
+   , { "shortcode": "AmongUs_Tan", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/AmongUs_Tan.png", "aliases": [""] }
+   , { "shortcode": "AmongUs_Venting", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/AmongUs_Venting.gif", "aliases": [""] }
+   , { "shortcode": "AmongUs_White", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/AmongUs_White.png", "aliases": [""] }
+   , { "shortcode": "AmongUs_Yellow", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/AmongUs_Yellow.png", "aliases": [""] }
+   , { "shortcode": "BellBag.png", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/BellBag.png", "aliases": [""] }
+   , { "shortcode": "FallGuys", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/FallGuys.png", "aliases": [""] }
+   , { "shortcode": "FallGuysB", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/FallGuysB.png", "aliases": [""] }
+   , { "shortcode": "FallGuysG", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/FallGuysG.png", "aliases": [""] }
+   , { "shortcode": "FallGuysO", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/FallGuysO.png", "aliases": [""] }
+   , { "shortcode": "FallGuysP", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/FallGuysP.png", "aliases": [""] }
+   , { "shortcode": "Mario_QuestionBlock", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/Mario_QuestionBlock.gif", "aliases": [""] }
+   , { "shortcode": "Narby", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/Narby.png", "aliases": [""] }
+   , { "shortcode": "NieR_Rein_mama", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/NieR_Rein_mama.png", "aliases": [""] }
+   , { "shortcode": "PlayStation", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/PlayStation.png", "aliases": [""] }
+   , { "shortcode": "dq2_Lauresia", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/dq2_Lauresia.gif", "aliases": [""] }
+   , { "shortcode": "dq2_Moonburg", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/dq2_Moonburg.gif", "aliases": [""] }
+   , { "shortcode": "dq2_Sumaltria", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/dq2_Sumaltria.gif", "aliases": [""] }
+   , { "shortcode": "dq_Slime", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/dq_Slime.png", "aliases": [""] }
+   , { "shortcode": "hirameki", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/hirameki.png", "aliases": [""] }
+   , { "shortcode": "i_coffinblue", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/i_coffinblue.png", "aliases": [""] }
+   , { "shortcode": "i_coffingreen", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/i_coffingreen.png", "aliases": [""] }
+   , { "shortcode": "nintendo_switch", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/nintendo_switch.png", "aliases": [""] }
+   , { "shortcode": "pikmin", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/pikmin.png", "aliases": [""] }
+   , { "shortcode": "pokeball", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/pokeball.png", "aliases": [""] }
+   , { "shortcode": "space_float", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/space_float.gif", "aliases": [""] }
+   , { "shortcode": "tadano_shikabane", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/tadano_shikabane.png", "aliases": [""] }
+   , { "shortcode": "tanukiti", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/tanukiti.png", "aliases": [""] }
+   , { "shortcode": "xbox", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/xbox.png", "aliases": [""] }
+ ]
+}
