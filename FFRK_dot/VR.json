@@ -1,0 +1,72 @@
+{
+  "name": "レコパ",
+  "version": "1.0.0",
+  "description": "FFRKのドット絵",
+  "credit": "© SQUARE ENIX ©DeNA Co.,Ltd.",
+  "iconURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff7_Sephiroth.png",
+  "emojis": [
+     { "shortcode": "ff0_Kurasame", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff0_Kurasame.png", "aliases": [""] }
+   , { "shortcode": "ff10_Tidus", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff10_Tidus.png", "aliases": [""] }
+   , { "shortcode": "ff10_Yuna", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff10_Yuna.png", "aliases": [""] }
+   , { "shortcode": "ff12_Balflear", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff12_Balflear.png", "aliases": [""] }
+   , { "shortcode": "ff12_Vaan", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff12_Vaan.png", "aliases": [""] }
+   , { "shortcode": "ff13_Lightning", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff13_Lightning.png", "aliases": [""] }
+   , { "shortcode": "ff14_Alisaie", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff14_Alisaie.png", "aliases": [""] }
+   , { "shortcode": "ff14_Alphinaud", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff14_Alphinaud.png", "aliases": [""] }
+   , { "shortcode": "ff14_Estinien", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff14_Estinien.png", "aliases": [""] }
+   , { "shortcode": "ff14_Haurchefant", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff14_Haurchefant.png", "aliases": [""] }
+   , { "shortcode": "ff14_Lyse", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff14_Lyse.png", "aliases": [""] }
+   , { "shortcode": "ff14_Minfilia", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff14_Minfilia.png", "aliases": [""] }
+   , { "shortcode": "ff14_Thancred", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff14_Thancred.png", "aliases": [""] }
+   , { "shortcode": "ff14_Y_shtola", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff14_Y_shtola.png", "aliases": [""] }
+   , { "shortcode": "ff14_Ysayle", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff14_Ysayle.png", "aliases": [""] }
+   , { "shortcode": "ff15_Gladiolus", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff15_Gladiolus.png", "aliases": [""] }
+   , { "shortcode": "ff15_Ignis", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff15_Ignis.png", "aliases": [""] }
+   , { "shortcode": "ff15_Noctis", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff15_Noctis.png", "aliases": [""] }
+   , { "shortcode": "ff15_Prompto", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff15_Prompto.png", "aliases": [""] }
+   , { "shortcode": "ff16_Clive", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff16_Clive.png", "aliases": [""] }
+   , { "shortcode": "ff1_WoL", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff1_WoL.png", "aliases": [""] }
+   , { "shortcode": "ff2_Frioniel", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff2_Frioniel.png", "aliases": [""] }
+   , { "shortcode": "ff3_OnionKnight", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff3_OnionKnight.png", "aliases": [""] }
+   , { "shortcode": "ff4_Cain", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff4_Cain.png", "aliases": [""] }
+   , { "shortcode": "ff4_Cecil_D", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff4_Cecil_D.png", "aliases": [""] }
+   , { "shortcode": "ff4_Cecil_P", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff4_Cecil_P.png", "aliases": [""] }
+   , { "shortcode": "ff4_Edge", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff4_Edge.png", "aliases": [""] }
+   , { "shortcode": "ff4_Golbeza", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff4_Golbeza.png", "aliases": [""] }
+   , { "shortcode": "ff5_Butz", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff5_Butz.png", "aliases": [""] }
+   , { "shortcode": "ff5_Faris", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff5_Faris.png", "aliases": [""] }
+   , { "shortcode": "ff5_Galuf", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff5_Galuf.png", "aliases": [""] }
+   , { "shortcode": "ff5_Gilgamesh", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff5_Gilgamesh.png", "aliases": [""] }
+   , { "shortcode": "ff5_Krile", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff5_Krile.png", "aliases": [""] }
+   , { "shortcode": "ff5_Lenna", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff5_Lenna.png", "aliases": [""] }
+   , { "shortcode": "ff6_Celes", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff6_Celes.png", "aliases": [""] }
+   , { "shortcode": "ff6_Cyan", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff6_Cyan.png", "aliases": [""] }
+   , { "shortcode": "ff6_Edgar", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff6_Edgar.png", "aliases": [""] }
+   , { "shortcode": "ff6_Gogo", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff6_Gogo.png", "aliases": [""] }
+   , { "shortcode": "ff6_Kefka", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff6_Kefka.png", "aliases": [""] }
+   , { "shortcode": "ff6_Locke", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff6_Locke.png", "aliases": [""] }
+   , { "shortcode": "ff6_Mash", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff6_Mash.png", "aliases": [""] }
+   , { "shortcode": "ff6_Mog", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff6_Mog.png", "aliases": [""] }
+   , { "shortcode": "ff6_Setzer", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff6_Setzer.png", "aliases": [""] }
+   , { "shortcode": "ff6_Shadow", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff6_Shadow.png", "aliases": [""] }
+   , { "shortcode": "ff6_Tina", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff6_Tina.png", "aliases": [""] }
+   , { "shortcode": "ff6_Ultros", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff6_Ultros.png", "aliases": [""] }
+   , { "shortcode": "ff7_Aerith", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff7_Aerith.png", "aliases": [""] }
+   , { "shortcode": "ff7_Barret", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff7_Barret.png", "aliases": [""] }
+   , { "shortcode": "ff7_Cid.png", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff7_Cid.png", "aliases": [""] }
+   , { "shortcode": "ff7_Cloud", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff7_Cloud.png", "aliases": [""] }
+   , { "shortcode": "ff7_Reno", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff7_Reno.png", "aliases": [""] }
+   , { "shortcode": "ff7_Rufuss", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff7_Rufus.png", "aliases": [""] }
+   , { "shortcode": "ff7_Sephiroth", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff7_Sephiroth.png", "aliases": [""] }
+   , { "shortcode": "ff7_Tifa", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff7_Tifa.png", "aliases": [""] }
+   , { "shortcode": "ff7_Vincent", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff7_Vincent.png", "aliases": [""] }
+   , { "shortcode": "ff7_Yuffie", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff7_Yuffie.png", "aliases": [""] }
+   , { "shortcode": "ff7_Zacka", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff7_Zack.png", "aliases": [""] }
+   , { "shortcode": "ff8_Squall", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff8_Squall.png", "aliases": [""] }
+   , { "shortcode": "ff9_Zidane", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/ff9_Zidane.png", "aliases": [""] }
+   , { "shortcode": "fft_Agrius", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/fft_Agrius.png", "aliases": [""] }
+   , { "shortcode": "fft_Delita", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/fft_Delita.png", "aliases": [""] }
+   , { "shortcode": "fft_Mustadio", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/fft_Mustadio.png", "aliases": [""] }
+   , { "shortcode": "fft_Ramza", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FFRK_dot/fft_Ramza.png", "aliases": [""] }
+ ]
+}
