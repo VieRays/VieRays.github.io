@@ -51,6 +51,15 @@
    , { "shortcode": "privatter", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/privatter.png", "aliases": [""] }
    , { "shortcode": "safari", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/safari.png", "aliases": [""] }
    , { "shortcode": "tvchan", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/tvchan.png", "aliases": [""] }
-   , { "shortcode": "wordpress", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/wordpress.png", "aliases": [""] }
+   , { "shortcode": "BOOTH", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/BOOTH.png", "aliases": [""] }
+   , { "shortcode": "Mac_SWC", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/Mac_SWC.png", "aliases": [""] }
+   , { "shortcode": "Microsoft_Edge", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/Microsoft_Edge.png", "aliases": [""] }
+   , { "shortcode": "Notion", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/Notion.png", "aliases": [""] }
+   , { "shortcode": "Pixiv_logo", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/Pixiv_logo.png", "aliases": [""] }
+   , { "shortcode": "RSS", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/RSS.png", "aliases": [""] }
+   , { "shortcode": "bookmeter", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/bookmeter.png", "aliases": [""] }
+   , { "shortcode": "bugdroid", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/bugdroid.png", "aliases": [""] }
+   , { "shortcode": "safari", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/safari.png", "aliases": [""] }
+   , { "shortcode": "skeb", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/skeb.png", "aliases": [""] }
  ]
 }
