@@ -60,6 +60,10 @@
    , { "shortcode": "bookmeter", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/bookmeter.png", "aliases": [""] }
    , { "shortcode": "bugdroid", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/bugdroid.png", "aliases": [""] }
    , { "shortcode": "safari", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/safari.png", "aliases": [""] }
+   , { "shortcode": "Filmarks", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/Filmarks.png", "aliases": [""] }
+   , { "shortcode": "OBS", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/OBS.png", "aliases": [""] }
+   , { "shortcode": "GitHub", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/GitHub.png", "aliases": [""] }
+   , { "shortcode": "asken", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/asken.png", "aliases": [""] }
    , { "shortcode": "skeb", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/skeb.png", "aliases": [""] }
  ]
 }
