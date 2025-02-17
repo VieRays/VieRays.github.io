@@ -33,12 +33,12 @@
    , { "shortcode": "teiki", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/teiki.PNG", "aliases": [""] }
    , { "shortcode": "tensai", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/tensai.GIF", "aliases": [""] }
    , { "shortcode": "tigau_sohjyanai", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/ii.PNG", "aliases": [""] }
-   , { "shortcode": "tutuuraura", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/tutuuraura.PNG", "aliases": [""] }
+   , { "shortcode": "tutuuraura", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/tutuuraura.png", "aliases": [""] }
    , { "shortcode": "ii", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/tigau_sohjyanai.PNG", "aliases": [""] }
    , { "shortcode": "tore", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/tore.PNG", "aliases": [""] }
    , { "shortcode": "wakaru", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/wakaru.PNG", "aliases": [""] }
    , { "shortcode": "yuusya", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/yuusya.PNG", "aliases": [""] }
    , { "shortcode": "yuuutsu", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/yuuutsu.PNG", "aliases": [""] }
-   , { "shortcode": "yoruwo_kokusuru", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/yoruwo_kokusuru.PNG", "aliases": [""] }
+   , { "shortcode": "yoruwo_kokusuru", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Moji_etc/yoruwo_kokusuru.png", "aliases": [""] }
  ]
 }
