@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "@MKG@maniakey.comさん作成のブロブたぬきちゃん",
   "credit": "@MKG@maniakey.com",
-  "iconURL": "https://maniakey.com/@MKG/pages/1703241030125",
+  "iconURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobtanuki/blobtanuki.png.webp",
   "emojis": [
      { "shortcode": "blobtanuki", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobtanuki/blobtanuki.png.webp", "aliases": [""] }
    , { "shortcode": "blobtanuki_beam", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobtanuki/blobtanuki_beam.gif.webp", "aliases": [""] }
