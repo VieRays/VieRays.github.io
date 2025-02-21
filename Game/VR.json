@@ -33,6 +33,7 @@
    , { "shortcode": "FallGuysO", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/FallGuysO.png", "aliases": [""] }
    , { "shortcode": "FallGuysP", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/FallGuysP.png", "aliases": [""] }
    , { "shortcode": "Mario_QuestionBlock", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/Mario_QuestionBlock.gif", "aliases": [""] }
+   , { "shortcode": "MINECRAFT", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/MINECRAFT.svg", "aliases": [""] }
    , { "shortcode": "Narby", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/Narby.png", "aliases": [""] }
    , { "shortcode": "NieR_Rein_mama", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/NieR_Rein_mama.png", "aliases": [""] }
    , { "shortcode": "PlayStation", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Game/PlayStation.png", "aliases": [""] }
