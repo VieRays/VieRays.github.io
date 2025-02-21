@@ -65,5 +65,6 @@
    , { "shortcode": "GitHub", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/GitHub.png", "aliases": [""] }
    , { "shortcode": "asken", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/asken.png", "aliases": [""] }
    , { "shortcode": "skeb", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/skeb.png", "aliases": [""] }
+   , { "shortcode": "nsfw", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/nsfw.png", "aliases": [""] }
  ]
 }
