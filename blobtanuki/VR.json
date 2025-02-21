@@ -1,0 +1,56 @@
+{
+  "name": "ブロブたぬき",
+  "version": "1.0.0",
+  "description": "@MKG@maniakey.comさん作成のブロブたぬきちゃん",
+  "credit": "@MKG@maniakey.com",
+  "iconURL": "https://maniakey.com/@MKG/pages/1703241030125",
+  "emojis": [
+     { "shortcode": "blobtanuki", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki.png.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_beam", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_beam.gif.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_bom", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_bom.gif.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_bunbun", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_bunbun.gif.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_chainsaw", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_chainsaw.gif.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_cook", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_cook.gif.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_cook2", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_cook2.gif.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_draw", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_draw.gif.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_ebihurai", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_ebihurai.png.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_ebiten", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_ebiten.png.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_eee", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_eee.gif.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_fat", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_fat.png.webp.png.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_fire", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_fire.gif.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_frustration", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_frustration.png.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_gakuburu", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_gakuburu.gif.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_gatling", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_gatling.gif.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_good2", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_good2.png.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_happy", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_happy.gif.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_hum2", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_hum2.png.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_jitabata", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_jitabata.gif.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_kirakira", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_kirakira.png.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_meshikure", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_meshikure.png.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_missile", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_missile.gif.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_moneyslap", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_moneyslap.gif.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_nadenade", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_nadenade.gif.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_ocha", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_ocha.png.webp.png.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_ofuton", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_ofuton.png.webp.png.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_ohuro", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_ohuro.gif.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_partypopper", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_partypopper.gif.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_power", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_power.png.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_rain", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_rain.gif.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_rolling", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_rolling.gif.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_rolling_hs", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_rolling_hs.gif.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_rvc", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_rvc.gif.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_rvc_hs", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_rvc_hs.gif.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_sauna", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_sauna.png.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_sekiyuo", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_sekiyuo.png.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_sticks", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_sticks.gif.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_sticks2", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_sticks2.gif.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_tanuzarashi", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_tanuzarashi.png.webp.png.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_trolley", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_trolley.gif.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_unun", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_unun.gif.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_utouto", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_utouto.gif.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_work", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_work.gif.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_yakiniku", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_yakiniku.png.webp", "aliases": [""] }
+   , { "shortcode": "blobtanuki_zombie", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/blobtanuki_zombie.png.webp.png.webp", "aliases": [""] }
+   , { "shortcode": "tanupuppu", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobcat_myrrh/tanupuppu.png.webp", "aliases": [""] }
+ ]
+}
