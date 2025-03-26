@@ -1,0 +1,71 @@
+{
+  "name": "FF14絵文字",
+  "version": "1.0.0",
+  "description": "FF14の絵文字",
+  "credit": "© SQUARE ENIX",
+  "iconURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_Alpha.PNG",
+  "emojis": [
+     { "shortcode": "14timeworn_map", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/14timeworn_map.png", "aliases": [""] }
+   , { "shortcode": "LowPoly_grape", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/LowPoly_grape.png", "aliases": [""] }
+   , { "shortcode": "ff14_16vuln", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_16vuln.png", "aliases": [""] }
+   , { "shortcode": "ff14_AlaMhigo", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_AlaMhigo.png", "aliases": [""] }
+   , { "shortcode": "ff14_Bozja", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_Bozja.png", "aliases": [""] }
+   , { "shortcode": "ff14_CompanySeals", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_CompanySeals.png", "aliases": [""] }
+   , { "shortcode": "ff14_Crystarium", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_Crystarium.png", "aliases": [""] }
+   , { "shortcode": "ff14_Doma", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_Doma.png", "aliases": [""] }
+   , { "shortcode": "ff14_Elixir", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_Elixir.png", "aliases": [""] }
+   , { "shortcode": "ff14_Eulmore", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_Eulmore.png", "aliases": [""] }
+   , { "shortcode": "ff14_Fantasia", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_Fantasia.png", "aliases": [""] }
+   , { "shortcode": "ff14_GarleanEmpire", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_GarleanEmpire.png", "aliases": [""] }
+   , { "shortcode": "ff14_Gil", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_Gil.png", "aliases": [""] }
+   , { "shortcode": "ff14_Gridania", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_Gridania.png", "aliases": [""] }
+   , { "shortcode": "ff14_Hingashi", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_Hingashi.png", "aliases": [""] }
+   , { "shortcode": "ff14_Ishgard", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_Ishgard.png", "aliases": [""] }
+   , { "shortcode": "ff14_LimsaLominsa", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_LimsaLominsa.png", "aliases": [""] }
+   , { "shortcode": "ff14_MGP", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_MGP.png", "aliases": [""] }
+   , { "shortcode": "ff14_MIP", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_MIP.png", "aliases": [""] }
+   , { "shortcode": "ff14_OldSharlayan", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_OldSharlayan.png", "aliases": [""] }
+   , { "shortcode": "ff14_Potion", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_Potion.png", "aliases": [""] }
+   , { "shortcode": "ff14_Radz_at_Han", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_Radz_at_Han.png", "aliases": [""] }
+   , { "shortcode": "ff14_Tuliyollal", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_Tuliyollal.png", "aliases": [""] }
+   , { "shortcode": "ff14_Uldah", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_Uldah.png", "aliases": [""] }
+   , { "shortcode": "ff14_VentureScrip", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_VentureScrip.png", "aliases": [""] }
+   , { "shortcode": "ff14_WolfMarks", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_WolfMarks.png", "aliases": [""] }
+   , { "shortcode": "ff14_afk", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_afk.png", "aliases": [""] }
+   , { "shortcode": "ff14_error", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_error.png", "aliases": [""] }
+   , { "shortcode": "ff14_fm_1", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_fm_1.png", "aliases": [""] }
+   , { "shortcode": "ff14_fm_2", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_fm_2.png", "aliases": [""] }
+   , { "shortcode": "ff14_fm_3", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_fm_3.png", "aliases": [""] }
+   , { "shortcode": "ff14_fm_4", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_fm_4.png", "aliases": [""] }
+   , { "shortcode": "ff14_fm_a", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_fm_a.png", "aliases": [""] }
+   , { "shortcode": "ff14_fm_b", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_fm_b.png", "aliases": [""] }
+   , { "shortcode": "ff14_fm_c", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_fm_c.png", "aliases": [""] }
+   , { "shortcode": "ff14_fm_d", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_fm_d.png", "aliases": [""] }
+   , { "shortcode": "ff14_gpose", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_gpose.png", "aliases": [""] }
+   , { "shortcode": "ff14_lfp", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_lfp.png", "aliases": [""] }
+   , { "shortcode": "ff14_limit_break", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_limit_break.png", "aliases": [""] }
+   , { "shortcode": "ff14_loading", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_loading.png", "aliases": [""] }
+   , { "shortcode": "ff14_meteor", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_meteor.png", "aliases": [""] }
+   , { "shortcode": "ff14_ml", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_ml.png", "aliases": [""] }
+   , { "shortcode": "ff14_mr", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_mr.png", "aliases": [""] }
+   , { "shortcode": "ff14_msq", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_msq.png", "aliases": [""] }
+   , { "shortcode": "ff14_msq_done", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_msq_done.png", "aliases": [""] }
+   , { "shortcode": "ff14_msq_locked", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_msq_locked.png", "aliases": [""] }
+   , { "shortcode": "ff14_patch2_x", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_patch2_x.png", "aliases": [""] }
+   , { "shortcode": "ff14_patch4_x", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_patch4_x.png", "aliases": [""] }
+   , { "shortcode": "ff14_patch5_x", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_patch5_x.png", "aliases": [""] }
+   , { "shortcode": "ff14_patch6_x", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_patch6_x.png", "aliases": [""] }
+   , { "shortcode": "ff14_patch7_x", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_patch7_x.png", "aliases": [""] }
+   , { "shortcode": "ff14_quest", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_quest.png", "aliases": [""] }
+   , { "shortcode": "ff14_return", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_return.png", "aliases": [""] }
+   , { "shortcode": "ff14_shigaku", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_shigaku.png", "aliases": [""] }
+   , { "shortcode": "ff14_sprint", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_sprint.png", "aliases": [""] }
+   , { "shortcode": "ff14_sprout", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_sprout.png", "aliases": [""] }
+   , { "shortcode": "ff14_status_busy", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_status_busy.png", "aliases": [""] }
+   , { "shortcode": "ff14_status_wpm", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_status_wpm.png", "aliases": [""] }
+   , { "shortcode": "ff14_teleport", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_teleport.png", "aliases": [""] }
+   , { "shortcode": "ff14_weakness_2", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_weakness_2.png", "aliases": [""] }
+   , { "shortcode": "hq", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/hq.png", "aliases": [""] }
+   , { "shortcode": "tsuzuku", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/tsuzuku.png", "aliases": [""] }
+ ]
+}
