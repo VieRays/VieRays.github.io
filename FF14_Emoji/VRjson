@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "FF14の絵文字",
   "credit": "© SQUARE ENIX",
-  "iconURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Sticker/ff14_sticker_Alpha.PNG",
+  "iconURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_16vuln.png",
   "emojis": [
      { "shortcode": "14timeworn_map", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/14timeworn_map.png", "aliases": [""] }
    , { "shortcode": "LowPoly_grape", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/LowPoly_grape.png", "aliases": [""] }
