@@ -67,5 +67,6 @@
    , { "shortcode": "ff14_weakness_2", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/ff14_weakness_2.png", "aliases": [""] }
    , { "shortcode": "hq", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/hq.png", "aliases": [""] }
    , { "shortcode": "tsuzuku", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/tsuzuku.png", "aliases": [""] }
+   , { "shortcode": "FF14_Trophy Crystal", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/FF14_Emoji/FF14_Trophy Crystal.png", "aliases": [""] }
  ]
 }
