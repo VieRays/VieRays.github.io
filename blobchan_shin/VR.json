@@ -51,16 +51,16 @@
    , { "shortcode": "blobdragon_fire", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blobdragon_fire.gif", "aliases": ["ドラゴン　ファイア　ほのお"] }
    , { "shortcode": "blobdragon_ice", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blobdragon_ice.gif", "aliases": ["ドラゴン　アイス　こおり"] }
    , { "shortcode": "blobdragon_nodcry", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blobdragon_nodcry.gif", "aliases": ["ドラゴン　うんうん　なみだ"] }
-   , { "shortcode": "blobdragon_nodcry", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_massage.gif", "aliases": ["マッサージ"] }
-   , { "shortcode": "blobdragon_nodcry", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_practiceswing_pro.gif", "aliases": ["野球　バット　スイング"] }
-   , { "shortcode": "blobdragon_nodcry", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_Awww.gif", "aliases": ["嘆く　あわわわ"] }
-   , { "shortcode": "blobdragon_nodcry", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_superkonekone.gif", "aliases": ["こねこね　なでる　スキンシップ"] }
-   , { "shortcode": "blobdragon_nodcry", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_surisuri.gif", "aliases": ["すりすり　なでる　スキンシップ"] }
-   , { "shortcode": "blobdragon_nodcry", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_thumpthump.gif", "aliases": ["ハート　ドキドキ　トゥンク"] }
-   , { "shortcode": "blobdragon_nodcry", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_heartflutter.gif", "aliases": ["ハート　ドキドキ　トゥンク"] }
-   , { "shortcode": "blobdragon_nodcry", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blobcat_step.gif", "aliases": ["ダンス　おどる　ステップ　ねこ"] }
-   , { "shortcode": "blobdragon_nodcry", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blobcat_step_box.gif", "aliases": ["ダンス　おどる　ステップ　ボックス　ねこ"] }
-   , { "shortcode": "blobdragon_nodcry", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/ablobcat_nodslowly.gif", "aliases": ["ゆっくり　うなずく　ねこ"] }
-   , { "shortcode": "blobdragon_nodcry", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_wadaiko.gif", "aliases": ["和太鼓　楽器　音楽"] }
+   , { "shortcode": "blob_massage", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_massage.gif", "aliases": ["マッサージ"] }
+   , { "shortcode": "blob_practiceswing_pro", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_practiceswing_pro.gif", "aliases": ["野球　バット　スイング"] }
+   , { "shortcode": "blob_Awww", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_Awww.gif", "aliases": ["嘆く　あわわわ"] }
+   , { "shortcode": "blob_superkonekone", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_superkonekone.gif", "aliases": ["こねこね　なでる　スキンシップ"] }
+   , { "shortcode": "blob_surisuri", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_surisuri.gif", "aliases": ["すりすり　なでる　スキンシップ"] }
+   , { "shortcode": "blob_thumpthump", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_thumpthump.gif", "aliases": ["ハート　ドキドキ　トゥンク"] }
+   , { "shortcode": "blob_heartflutter", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_heartflutter.gif", "aliases": ["ハート　ドキドキ　トゥンク"] }
+   , { "shortcode": "blobcat_step", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blobcat_step.gif", "aliases": ["ダンス　おどる　ステップ　ねこ"] }
+   , { "shortcode": "blobcat_step_box", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blobcat_step_box.gif", "aliases": ["ダンス　おどる　ステップ　ボックス　ねこ"] }
+   , { "shortcode": "ablobcat_nodslowly", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/ablobcat_nodslowly.gif", "aliases": ["ゆっくり　うなずく　ねこ"] }
+   , { "shortcode": "blob_wadaiko", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/blobchan_shin/blob_wadaiko.gif", "aliases": ["和太鼓　楽器　音楽"] }
   ]
 }
