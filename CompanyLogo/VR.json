@@ -36,5 +36,6 @@
    , { "shortcode": "pizza10_4", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/pizza10_4.png", "aliases": [""] }
    , { "shortcode": "seria", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/seria.png", "aliases": [""] }
    , { "shortcode": "sukiya", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/sukiya.png", "aliases": [""] }
+   , { "shortcode": "FamilyMart", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/CompanyLogo/FamilyMart.svg", "aliases": [""] }
  ]
 }
