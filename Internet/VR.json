@@ -66,5 +66,7 @@
    , { "shortcode": "asken", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/asken.png", "aliases": [""] }
    , { "shortcode": "skeb", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/skeb.png", "aliases": [""] }
    , { "shortcode": "nsfw", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/nsfw.png", "aliases": [""] }
+   , { "shortcode": "FF14_Game Card", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/FF14_Game Card.png", "aliases": [""] }
+   , { "shortcode": "Crysta", "imageURL": "https://raw.githubusercontent.com/VieRays/VieRays.github.io/refs/heads/main/Internet/Crysta.png", "aliases": [""] }
  ]
 }
